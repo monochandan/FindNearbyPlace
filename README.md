@@ -1,4 +1,4 @@
 # FindNearbyPlace
 You can find nearby Restaurant,Hospital,School
 #Images in README.md
-![](map.png)
+<img src="README.md" width="20" >
